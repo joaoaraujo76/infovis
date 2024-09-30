@@ -1,0 +1,51 @@
+ID,Title,Director,Genre,Month,Year,Duration (min),Rating (out of 10),Country
+1,Inception,Christopher Nolan,Sci-Fi,January,2023,148,9.0,USA
+2,Parasite,Bong Joon-ho,Thriller,February,2023,132,9.1,South Korea
+3,The Godfather,Francis Ford Coppola,Drama,March,2023,175,9.2,USA
+4,Spirited Away,Hayao Miyazaki,Animation,January,2023,125,8.9,Japan
+5,The Dark Knight,Christopher Nolan,Action,April,2023,152,9.0,USA
+6,Amélie,Jean-Pierre Jeunet,Romance,March,2023,122,8.3,France
+7,The Matrix,Lana Wachowski,Sci-Fi,May,2023,136,8.7,USA
+8,Schindler's List,Steven Spielberg,History,April,2023,195,9.0,USA
+9,La La Land,Damien Chazelle,Musical,February,2023,128,8.0,USA
+10,Pulp Fiction,Quentin Tarantino,Crime,March,2023,154,8.9,USA
+11,The Shawshank Redemption,Frank Darabont,Drama,May,2023,142,9.3,USA
+12,Interstellar,Christopher Nolan,Sci-Fi,June,2023,169,8.6,USA
+13,Get Out,Jordan Peele,Horror,July,2023,104,7.7,USA
+14,The Lion King,Jon Favreau,Animation,June,2023,118,6.9,USA
+15,The Grand Budapest Hotel,Wes Anderson,Comedy,July,2023,99,8.1,USA
+16,Forrest Gump,Robert Zemeckis,Drama,August,2023,142,8.8,USA
+17,Moonlight,Barry Jenkins,Drama,July,2023,111,7.4,USA
+18,The Social Network,David Fincher,Drama,September,2023,120,7.7,USA
+19,Fight Club,David Fincher,Drama,September,2023,139,8.8,USA
+20,Whiplash,Damien Chazelle,Drama,October,2023,107,8.5,USA
+21,Hacksaw Ridge,Mel Gibson,War,October,2023,139,8.1,USA
+22,Her,Spike Jonze,Romance,November,2023,126,8.0,USA
+23,Coco,Lee Unkrich,Animation,December,2023,105,8.4,USA
+24,Joker,Todd Phillips,Drama,December,2023,122,8.5,USA
+25,The Irishman,Martin Scorsese,Crime,October,2023,209,7.8,USA
+26,Avatar,James Cameron,Sci-Fi,August,2023,162,7.9,USA
+27,1917,Sam Mendes,War,November,2023,119,8.3,UK
+28,Jojo Rabbit,Taika Waititi,Comedy,November,2023,108,7.9,USA
+29,The Prestige,Christopher Nolan,Thriller,August,2023,130,8.5,USA
+30,Blade Runner 2049,Dennis Villeneuve,Sci-Fi,September,2023,164,8.0,USA
+31,Toy Story 4,Josh Cooley,Animation,July,2023,100,7.8,USA
+32,The Wolf of Wall Street,Martin Scorsese,Crime,September,2023,180,8.2,USA
+33,Mad Max: Fury Road,George Miller,Action,October,2023,120,8.1,Australia
+34,The Revenant,Alejandro G. Iñárritu,Drama,October,2023,156,8.0,USA
+35,The Hateful Eight,Quentin Tarantino,Western,November,2023,168,7.8,USA
+36,Lady Bird,Greta Gerwig,Drama,December,2023,94,7.4,USA
+37,Django Unchained,Quentin Tarantino,Western,November,2023,165,8.4,USA
+38,Arrival,Dennis Villeneuve,Sci-Fi,October,2023,116,7.9,USA
+39,Black Panther,Ryan Coogler,Action,September,2023,134,7.3,USA
+40,A Quiet Place,John Krasinski,Horror,August,2023,90,7.5,USA
+41,The Avengers,Joss Whedon,Action,June,2023,143,8.0,USA
+42,Guardians of the Galaxy,James Gunn,Action,July,2023,121,8.0,USA
+43,Shrek,Andrew Adamson,Animation,May,2023,90,7.9,USA
+44,The Lighthouse,Robert Eggers,Horror,August,2023,109,7.6,USA
+45,Inside Out,Pete Docter,Animation,July,2023,95,8.1,USA
+46,No Country for Old Men,Joel Coen,Thriller,June,2023,122,8.1,USA
+47,Zootopia,Byron Howard,Animation,August,2023,108,8.0,USA
+48,Memento,Christopher Nolan,Thriller,May,2023,113,8.4,USA
+49,Titanic,James Cameron,Romance,April,2023,195,7.8,USA
+50,The Sixth Sense,M. Night Shyamalan,Horror,December,2023,107,8.1,USA
